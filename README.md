@@ -19,6 +19,6 @@
 </picture>
 
 <div> 
-  <img height="100em src=(https://github-readme-stats.vercel.app/api/top-langs/?username=brendoumatos&layout=compact)/">
+  <img height="100em src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendoumatos&layout=compac"/">
 </div>
 
