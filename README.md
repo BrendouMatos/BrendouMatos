@@ -13,7 +13,7 @@
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <img 
     height="150em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendoumatos&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendoumatos&layout=compact&hide=html&token=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" 
     alt="Top Langs"
   />
   
