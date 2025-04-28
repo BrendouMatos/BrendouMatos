@@ -1,12 +1,10 @@
-<h1 align="center">Olá, eu sou o Brendou Matos 👋</h1>
+<h4 align="center">Olá, eu sou o Brendou Matos 👋</h4>
 
 <p align="center">
   🚀 Desenvolvedor em formação | 📈 Focado em dados, automações e soluções criativas
 </p>
 
----
-
-<h2>📊 Minhas Estatísticas no GitHub</h2>
+<h5>📊 Minhas Estatísticas no GitHub</h5>
 
 <div align="center">
 
@@ -16,7 +14,7 @@
 
 </div>
 ---
-<h2>🛠️ Tecnologias e Ferramentas:</h2>
+<h5>🛠️ Tecnologias e Ferramentas:</h5>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
