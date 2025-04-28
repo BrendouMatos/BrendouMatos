@@ -31,8 +31,8 @@
 <h2>📊 Minhas Estatísticas no GitHub</h2>
 
 <p align="center">
-  <img src="https://readme-stats-7u33a8ny1-brendou-matos-projects.vercel.app/api?username=brendoumatos&show_icons=true&theme=dark" height="180em"/>
-  <img src="https://readme-stats-7u33a8ny1-brendou-matos-projects.vercel.app/api/top-langs/?username=brendoumatos&layout=compact&theme=dark" height="180em"/>
+  <img src="https://readme-stats-rose.vercel.app/api?username=brendoumatos&show_icons=true&theme=dark" height="180em"/>
+  <img src="https://readme-stats-rose.vercel.app/api/top-langs/?username=brendoumatos&layout=compact&theme=dark" height="180em"/>
 </p>
 
 ---
