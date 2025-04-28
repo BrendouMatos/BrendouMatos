@@ -11,4 +11,4 @@
   <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=brendoumatos&theme=algolia&show_icons=true"/>
   <img heitht="180em" src="https://github-readme-stats-vercel.app/api/top_langs/?username=brendoumatos&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-https://github-readme-stats.vercel.app/api?username=brendoumatos&theme=algolia&show_icons=true
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendoumatos&theme=dark&show_icons=true)
