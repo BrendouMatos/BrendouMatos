@@ -1,13 +1,12 @@
-<h1 align="center">Hey! 👋 Eu sou o Brendou Matos</h1>
+<h1 align="center">Olá, eu sou o Brendou Matos 👋</h1>
 
 <p align="center">
-  🎯 Explorando o mundo da programação, automações e ciência de dados! <br>
-  🎨 Criando projetos que unem eficiência e criatividade.
+  🚀 Desenvolvedor em formação | 📈 Focado em dados, automações e soluções criativas
 </p>
 
 ---
 
-### 📫 Conecte-se comigo:
+<h2>📫 Conecte-se comigo:</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brendoumatos/" target="_blank">
@@ -17,7 +16,7 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas:
+<h2>🛠️ Tecnologias e Ferramentas:</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -29,16 +28,23 @@
 
 ---
 
-### 🚀 Minhas Estatísticas:
+<h2>📊 Minhas Estatísticas no GitHub</h2>
 
-<div align="center">
-  <img src="https://readme-stats-7u33a8ny1-brendou-matos-projects.vercel.app/api?username=brendoumatos&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://readme-stats-7u33a8ny1-brendou-matos-projects.vercel.app/api/top-langs/?username=brendoumatos&layout=compact&theme=radical" height="180em"/>
-</div>
+<p align="center">
+  <img src="https://readme-stats-7u33a8ny1-brendou-matos-projects.vercel.app/api?username=brendoumatos&show_icons=true&theme=dark" height="180em"/>
+  <img src="https://readme-stats-7u33a8ny1-brendou-matos-projects.vercel.app/api/top-langs/?username=brendoumatos&layout=compact&theme=dark" height="180em"/>
+</p>
 
 ---
 
-### 🔥 Contribuições Recentes:
+<h2>🔥 Contribuições Recentes</h2>
 
-<div align="center">
-  <img src="h
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brendoumatos&theme=dark" height="180em"/>
+</p>
+
+---
+
+<p align="center">
+  Em constante evolução. A cada commit, mais perto dos meus objetivos! 🚀
+</p>
