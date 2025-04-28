@@ -8,6 +8,6 @@
 
 <div>
   <a href="https://github.com/BrendouMatos">
-  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=brendoumatos&theme=algolia&show_icons=true)"/>
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=brendoumatos&theme=algolia&show_icons=true"/>
   <img heitht="180em" src="https://github-readme-stats-vercel.app/api/top_langs/?username=brendoumatos&layout=compact&langs_count=16&theme=dracula"/>
 </div>
