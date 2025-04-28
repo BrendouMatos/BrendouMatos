@@ -10,6 +10,8 @@
 
   <img height="180em" src="https://readme-stats-git-master-brendou-matos-projects.vercel.app/api/top-langs/?username=brendoumatos&layout=compact&langs_count=7&theme=dark&hide_border=true" />
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brendoumatos&theme=dark" height="180em"/>
+
 </div>
 
 <h5>🛠️ Tecnologias e Ferramentas:</h5>
