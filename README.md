@@ -32,8 +32,8 @@
 ### 🚀 Minhas Estatísticas:
 
 <div align="center">
-  <img src="readme-stats-7u33a8ny1-brendou-matos-projects.vercel.app/api?username=brendoumatos&show_icons=true&theme=radical" height="180em"/>
-  <img src="readme-stats-7u33a8ny1-brendou-matos-projects.vercel.app/api/top-langs/?username=brendoumatos&layout=compact&theme=radical" height="180em"/>
+  <img src="https://readme-stats-7u33a8ny1-brendou-matos-projects.vercel.app/api?username=brendoumatos&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://readme-stats-7u33a8ny1-brendou-matos-projects.vercel.app/api/top-langs/?username=brendoumatos&layout=compact&theme=radical" height="180em"/>
 </div>
 
 ---
