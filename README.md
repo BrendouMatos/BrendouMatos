@@ -1,10 +1,8 @@
-<h4 align="center">Olá, eu sou o Brendou Matos 👋</h4>
+<h3 align="center">Olá, eu sou o Brendou Matos 👋</h3>
 
 <p align="center">
   🚀 Desenvolvedor em formação | 📈 Focado em dados, automações e soluções criativas
 </p>
-
-<h5>📊 Minhas Estatísticas no GitHub</h5>
 
 <div align="center">
 
