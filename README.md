@@ -25,24 +25,7 @@
   <a href="https://www.linkedin.com/in/brendoumatos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
-<h5>📫 Conecte-se comigo:</h5>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/brendoumatos/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-
-<h2>🔥 Contribuições Recentes</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brendoumatos&theme=dark" height="180em"/>
-</p>
-
----
 
 <p align="center">
   Em constante evolução. A cada commit, mais perto dos meus objetivos! 🚀
