@@ -14,7 +14,7 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=brendoumatos&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    https://github-readme-stats.vercel.app/api/top-langs/?username=brendoumatos&layout=compact
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brendoumatos&layout=compact"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=brendoumatos&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendoumatos&layout=compact"/>
