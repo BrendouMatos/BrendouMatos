@@ -6,16 +6,16 @@
 
 ---
 
-<h2>📫 Conecte-se comigo:</h2>
+<h2>📊 Minhas Estatísticas no GitHub</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/brendoumatos/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
+  <img height="180em" src="https://readme-stats-git-master-brendou-matos-projects.vercel.app/api?username=brendoumatos&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+
+  <img height="180em" src="https://readme-stats-git-master-brendou-matos-projects.vercel.app/api/top-langs/?username=brendoumatos&layout=compact&langs_count=7&theme=dark&hide_border=true" />
+
+</div>
 ---
-
 <h2>🛠️ Tecnologias e Ferramentas:</h2>
 
 <p align="center">
@@ -28,17 +28,16 @@
 
 ---
 
-<h2>📊 Minhas Estatísticas no GitHub</h2>
+<h2>📫 Conecte-se comigo:</h2>
 
-<div align="center">
-
-  <img height="180em" src="https://readme-stats-git-master-brendou-matos-projects.vercel.app/api?username=brendoumatos&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-
-  <img height="180em" src="https://readme-stats-git-master-brendou-matos-projects.vercel.app/api/top-langs/?username=brendoumatos&layout=compact&langs_count=7&theme=dark&hide_border=true" />
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/brendoumatos/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
 
 <h2>🔥 Contribuições Recentes</h2>
 
