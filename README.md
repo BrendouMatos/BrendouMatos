@@ -25,3 +25,12 @@
     alt="Top Langs"
   />
 </div>
+
+<div>
+  <img 
+    height="150em" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=brendoumatos&theme=dark" 
+    alt="GitHub Streak" 
+  />
+</div>
+
